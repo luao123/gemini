@@ -1,0 +1,30 @@
+
+nsquid:S2095Y"RUse try-with-resources or close this "BufferedOutputStream" in a "finally" clause.(£ðóÙûÿÿÿÿ
+esquid:S2095U"IUse try-with-resources or close this "InputStream" in a "finally" clause.(Ïãýµøÿÿÿÿ
+gsquid:S2095W"QUse try-with-resources or close this "BufferedInputStream" in a "finally" clause.(™ÍB
+jsquid:S2095S"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(™Š©ýÿÿÿÿ
+bsquid:CommentedOutCodeLine>"<This block of commented-out lines of code should be removed.(«˜¥Ú
+bsquid:CommentedOutCodeLineN"<This block of commented-out lines of code should be removed.(ã¶÷Ì
+gsquid:CommentedOutCodeLiney"<This block of commented-out lines of code should be removed.(Æÿ»¬ýÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÛíÇ‚ûÿÿÿÿ
+‡squid:S1319r"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Þ—»
+T
+squid:S106?"9Replace this use of System.out or System.err by a logger.(øñÊžùÿÿÿÿ
+T
+squid:S106B"9Replace this use of System.out or System.err by a logger.(àÍì¦þÿÿÿÿ
+O
+squid:S106w"9Replace this use of System.out or System.err by a logger.(ÅÁ´¢
+O
+squid:S106|"9Replace this use of System.out or System.err by a logger.(«‹Îõ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿íÝƒ
+U
+squid:S106“"9Replace this use of System.out or System.err by a logger.(Œ‰’Ðýÿÿÿÿ
+U
+squid:S106˜"9Replace this use of System.out or System.err by a logger.(„Öþ‚ýÿÿÿÿ
+Nsquid:S1135+"2Complete the task associated to this TODO comment.(Ð¡ž§ýÿÿÿÿ
+@squid:S2140")Use "java.util.Random.nextInt()" instead.(Ž¾°í
+Vsquid:UselessImportCheck"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ
+?squid:S1148("#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148,"#Use a logger to log this exception.(Âþÿâûÿÿÿÿ
+?squid:S1148d"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
